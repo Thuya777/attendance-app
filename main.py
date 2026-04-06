@@ -88,7 +88,16 @@ elif menu == "Admin Panel (စီမံခန့်ခွဲသူ)":
     st.header("🔐 Admin Panel")
     password = st.text_input("Admin Password ရိုက်ထည့်ပါ", type="password")
     
-    if password == "1234": # Password ကို ဤနေရာတွင် ပြောင်းနိုင်သည်
+           # --- try ဆိုတာကို သီးသန့်စာကြောင်းအနေနဲ့ အစမှာထားပါ ---
+    try:
+    # Settings sheet ထဲက B1 အကွက် (Password) ကို ဖတ်ခြင်း
+    conf_sheet = sheet.worksheet("Settings")
+    correct_password = conf_sheet.acell('B1').value
+    except Exception as e:
+    # တစ်ခုခု မှားယွင်းခဲ့ရင် Backup အနေနဲ့ 1234 ကို သုံးမယ်
+    correct_password = "1234"
+
+    if password == correct_password:  # Password ကို ဤနေရာတွင် ပြောင်းနိုင်သည်
         st.success("Admin Login အောင်မြင်သည်။")
         tab1, tab2 = st.tabs(["ဝန်ထမ်းအသစ်/ဓာတ်ပုံပြင်ရန်", "စည်းကမ်းချက်ပြင်ရန်"])
         
