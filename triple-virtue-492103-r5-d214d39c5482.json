@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "triple-virtue-492103-r5",
+  "private_key_id": "d214d39c54825e0ca8eec543152d3713175a7424",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrEt+rWSGqHbth\nqDLw6T71nEPgpvXIN1o3p/9xVHRIjcfLPyxK3c+F/xMfb6zOhr7l/0FqxIlMgUPk\n6cQ8uM2yXebEPq2ibKStvnVHbD8RFOahzQTa+s/dqVrcMgkp5Zg9yYqOM8stgf0V\ndPfWGQYHl8xe48Y2lz3v0O1L5MWwyU7gVnG4YPN9Mkw4PGgaKJyGQKzZ9g2C52so\n41DNA9zwVO3VEWiFnbjU8NVoAAjY4UTmr3fU/5lpj1U9JB5+8lgMcxExFdPMNqqp\nGIWy21cj+DHGjjl+veDfdTZddjglVf0MMj2DntqlSef4oH1/BqlhPKfYC7lUqynY\nxvST9k+rAgMBAAECggEAM7L0+EXr6AqrLaSUnHyIo9YRJ0udnF+p+obhKgEhUSnT\ntscFHizxQafnwgjQOuu6tiwRO3Bgo8eu2neQ797TfvNkwWrFs3/MtpsHu0lpt8JO\nvpgEPx8sAWtkQ4Y1gb1aaFXHcxkQ7lRJxRm/qiqOyW2k/AouxSGovJgxlk1xNu7o\nk4ayoOjzp+Cw9QTFBqDsCwtDBxWsbcXfy9JO8bG1nvJguCCnlG4j1hMg93jGQM+y\nLjduTyu2IthHb0dRWm+cRe/TDxXOg69rtAIA2DwKkgoesGoBFyztWeTnnvskuP3p\nA//jpL2BOeb2zG5reIXfVcMp7i/2MlxIcgCu4Yk2lQKBgQDe6SN/9je1ZPRZb4hS\nYcJlDlBsDzwIxRcADX3JQDPURF4r/ZSyyvwpzdsIOI4QDTBJNegew79Yvj/09ChB\nZ+JFvqElnlss+brDNcZBfMifUFuROUnbshG71lcG4C0L3YLPhQXkHS5GovqXF8bi\ntJhTxtoHz5O7G+VCX4bexWDMpQKBgQDEd97uiDbR9eGIH/ZB5Syx8KJ/Yvgr7Snd\nBMnHHl3ykr7xHhAoOvK6ig4nyWgWVhS+bIDyn5hTCtasG0TSMMDJ++vmov9yia/x\nxcc4WUwQwse0oAAXwLdHojGWN8fpzvLQO0Fe+32Wm7j30KuxnkdgztMpBy8bRKOd\nZIqsqPZqDwKBgDY+bZEaDXxq0Lti1L2XZILK9O8W1fkcXPh6T/3FTdd9u5zg3GqV\n0r8phP9/I7LsQq/OGmpCIDIsOcwWDiW8beei9/v7iRxsuPIAB/qvrvJ1z5KLalm3\n/3DCO/NEYjHc+ZQePsy//R7bUjeqZY+NevQIE86KyNxjcWqxbFSRm3ixAoGBALb7\nJchnWRdnt+u+SO7KcTww8EdQd+8BbdIJmZw4Liu0fN24sDen31XZKqHntWfIOH26\nNMbD2WzOVW3p38kb2xLD7Mvb16pnjlTRbWCP2oZpwvH5aty0gn7XEvPjc+/Q7Nj/\ntzytYiSZWEaGNMKytav2NTirFjaBURlQANAadZYFAoGAQsFAeux6Add4LDHvNpSN\nEVZkRvMyq2ONva2gL5RYWCYLpjkMAW9fqJSkkRYx6rAnXY9Kq2wwkjB6w/+D94rl\nFHhH1xoJPa1lVm9PNdUlXJ1ng5ZO8jFxCjdZx53SXm6c1xSuxM1Ie60jt2elEu+3\nO33YV2/uRn/xqkWgeQsWs+E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "attendance-key@triple-virtue-492103-r5.iam.gserviceaccount.com",
+  "client_id": "104752056977979334509",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/attendance-key%40triple-virtue-492103-r5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
